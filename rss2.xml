@@ -9,7 +9,7 @@
     <atom:link href="https://saltandsauce.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>这里没有一个简介</description>
-    <pubDate>Fri, 25 Nov 2022 16:28:04 GMT</pubDate>
+    <pubDate>Fri, 25 Nov 2022 16:33:15 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -22,13 +22,12 @@
         
       <description>&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;代码测试：&lt;/p&gt;
-&lt;p&gt; `py&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt; print(&amp;quot;Hello&amp;q</description>
+ &lt;figure class=&quot;highlight py&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;t</description>
         
       
       
       
-      <content:encoded><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><ol><li><p>代码测试：</p><p> `py</p><pre><code> print(&quot;Hello&quot;)</code></pre><p> `</p><p> `matlab</p><pre><code> disp(1 + 1)</code></pre><p> `</p></li><li><p>图片测试：</p><p> 2.1 本地图片：</p><p> <img src="../../themes/next/source/images/android-chrome-512x512.png" alt="网站logo" title="斑马鱼受精卵(四胚体时期)"></p><p> 2.2 网络图片：</p><p> <img src="https://csdnimg.cn/cdn/content-toolbar/csdn-logo_.png?v=20190924.1" alt="CSDN图片" title="CSDN图标"></p></li><li><p>链接测试：</p><p> <a href="https://www.bilibili.com" title="哔哩哔哩动画">B站</a></p></li><li><p>引用测试：</p><blockquote><p>这是一条引用</p><p><em>斜体字</em>，<strong>粗体字</strong><u>下划线字</u>和<del>不要的字</del></p></blockquote></li><li><p>表格测试：</p><p> 表头|表头|表头|表头<br> —-|—-|—-|—-<br> 一号|晚上|三号|然后<br> 听经|住旅店|去餐厅|看电影</p></li><li><p>公式符号测试：</p><script type="math/tex; mode=display"> f(x)=\frac{1}{\sqrt{2 \pi \sigma x} } e^{-\frac{ {(x-\mu)}^2} {2 \sigma^2} }</script></li></ol><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>无序列表测试：</p><ul><li>周一</li><li>周二</li><li>周三</li><li>周四</li></ul><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><ul><li>周五</li><li>周六</li><li>周日</li></ul><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><p>隔</p><hr><p>开</p>]]></content:encoded>
+      <content:encoded><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><ol><li><p>代码测试：</p> <figure class="highlight py"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello&quot;</span>)</span><br></pre></td></tr></table></figure> <figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">disp</span>(<span class="number">1</span> + <span class="number">1</span>)</span><br></pre></td></tr></table></figure></li><li><p>图片测试：</p><p> 2.1 本地图片：</p><p> <img src="../../themes/next/source/images/android-chrome-512x512.png" alt="网站logo" title="斑马鱼受精卵(四胚体时期)"></p><p> 2.2 网络图片：</p><p> <img src="https://csdnimg.cn/cdn/content-toolbar/csdn-logo_.png?v=20190924.1" alt="CSDN图片" title="CSDN图标"></p></li><li><p>链接测试：</p><p> <a href="https://www.bilibili.com" title="哔哩哔哩动画">B站</a></p></li><li><p>引用测试：</p><blockquote><p>这是一条引用</p><p><em>斜体字</em>，<strong>粗体字</strong>，<u>下划线字</u>和<del>不要的字</del></p></blockquote></li><li><p>表格测试：</p><p> 表头|表头|表头|表头<br> —-|—-|—-|—-<br> 一号|晚上|三号|然后<br> 听经|住旅店|去餐厅|看电影</p></li><li><p>公式符号测试：</p><script type="math/tex; mode=display"> f(x)=\frac{1}{\sqrt{2 \pi \sigma x} } e^{-\frac{ {(x-\mu)}^2} {2 \sigma^2} }</script></li></ol><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>无序列表测试：</p><ul><li>周一</li><li>周二</li><li>周三</li><li>周四</li></ul><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><ul><li>周五</li><li>周六</li><li>周日</li></ul><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><p>隔</p><hr><p>开</p>]]></content:encoded>
       
       
       <category domain="https://saltandsauce.top/categories/test/">test</category>
